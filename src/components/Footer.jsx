@@ -29,7 +29,7 @@ export default function Footer() {
             </h3>
 
             <p className="mt-3 text-slate-400 leading-7">
-              Backend Engineer focused on scalable systems,
+              Full Stack focused on scalable systems,
               distributed architecture, and production-grade APIs.
             </p>
           </motion.div>
@@ -70,7 +70,7 @@ export default function Footer() {
 
             <div className="flex gap-4">
               <a
-                href="https://github.com/YOUR_USERNAME"
+                href="https://github.com/raghav-maheshwari-21"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="
@@ -87,7 +87,7 @@ export default function Footer() {
               </a>
 
               <a
-                href="https://linkedin.com/in/YOUR_USERNAME"
+                href="https://www.linkedin.com/in/raghav-maheshwari-9884b2249/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="

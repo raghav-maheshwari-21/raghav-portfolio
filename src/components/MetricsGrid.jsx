@@ -6,7 +6,7 @@ const metrics = [
     label: "Async Jobs",
   },
   {
-    value: "10K+",
+    value: "15+",
     label: "Automations",
   },
   {
